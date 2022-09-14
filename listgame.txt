@@ -5,3 +5,4 @@ pokemon
 digidang
 digital
 digigi
+digisum
