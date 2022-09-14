@@ -2,6 +2,8 @@ Aov
 ml
 vg
 pokemon
-digidang
+digidan
 digital
 digigi
+digisum
+
