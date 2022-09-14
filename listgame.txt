@@ -4,3 +4,4 @@ vg
 pokemon
 digidang
 digital
+digigi
